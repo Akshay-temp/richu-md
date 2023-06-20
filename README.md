@@ -1,1 +1,1 @@
-# richu-md
+# RICHU-MD
